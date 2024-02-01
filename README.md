@@ -19,3 +19,8 @@ dogeman.cpolar.cn <-我的网站 资源分享类型
 如果想要以v6访问 请修改连接地址为 dogeman.v6.softether.net
 
 仅限于电脑使用  请下载正式版
+
+
+链接：https://dogeman.cpolar.cn/chfs/shared/Guest/%E5%85%B1%E4%BA%AB/NETWORK/doge/ipv4and6.exe
+
+有问题可以call  rttommmr@outlook.com
